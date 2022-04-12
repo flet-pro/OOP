@@ -1,5 +1,3 @@
-package OOP;
-
 public class Person {
   // (1)
   String name = "name";

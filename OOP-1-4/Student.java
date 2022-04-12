@@ -1,7 +1,3 @@
-package OOP;
-
-//import OOP.Person;
-
 public class Student extends Person{
     String id;
     Student(){
