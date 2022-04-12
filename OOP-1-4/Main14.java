@@ -14,6 +14,5 @@ class Main14 {
     s.setName("Moriguchi");
     s.setID("03B24949");
     s.introduce();
-    sdfsjdkf
   }
 }
